@@ -29,7 +29,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 ---
 ## 🛠️ Metologia usada 
 
--**Scrum** - 
+**Scrum** 
 
 ✅ Ideal para proyectos iterativos y colaborativos
 
@@ -41,7 +41,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 ## 🛠️ Otras metodologias que se pudo usar 
 
--** Design Thinking** - 
+** Design Thinking** 
 
 ✅ Centrado en el usuario
 
@@ -49,7 +49,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 ✅ Útil para definir el diseño UI/UX y entender las necesidades del usuario final
 
--**Waterfall (Cascada)** - 
+**Waterfall (Cascada)**  
 
 ✅ Adecuada solo si los requisitos están 100% definidos desde el inicio
 
