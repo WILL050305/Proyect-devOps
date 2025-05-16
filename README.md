@@ -59,7 +59,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 
 
-## ⚙️ DevOps y Automatización
+## ⚙️ Automatización
 A continuación, se detallan los beneficios clave aplicados al desarrollo y mantenimiento de esta página web, junto con las plataformas utilizadas:
 
 ✅ Beneficios y herramientas asociadas
