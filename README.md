@@ -20,7 +20,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 - **HTML5** – Estructura del sitio web.
 - **CSS3** – Estilos visuales y responsividad.
 - **JavaScript** – Interactividad (carrito, filtros, etc.).
-- **Bootstrap** (opcional) – Framework para diseño responsive.
+- **Bootstrap** **Tailwind** – Framework para diseño responsive.
 - **PHP + MySQL** (versión con backend) – Para manejo de base de datos y pedidos.
 - **Git** – Control de versiones.
 - **GitHub Pages** (opcional) – Para desplegar versión estática.
