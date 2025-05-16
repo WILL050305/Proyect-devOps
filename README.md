@@ -27,7 +27,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 - **Yape, Paypal o tarjeto de debito** - Metodos de pago integrado a traves de API
 
 ---
-## 🛠️ Metologia usada 
+## 🛠️ Metodologia usada 
 
 **Scrum** 
 
