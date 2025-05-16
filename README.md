@@ -6,12 +6,12 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 ## 📌 Características principales
 
-- Catálogo de productos de ropa (camisas, pantalones, vestidos, etc.).
+- Catálogo de productos de ropa hombres (camisas, pantalones, , etc.).
 - Carrito de compras dinámico.
 - Filtro por categoría, talla y precio.
 - Formulario de contacto.
 - Diseño adaptable a móviles (responsive).
-- Panel de administrador (opcional para futuras versiones).
+- Panel de administrador.
 
 ---
 
@@ -28,4 +28,17 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 ---
 
 ## 📁 Estructura del proyecto
-
+tienda-ropa/
+├── index.html
+├── productos.html
+├── carrito.html
+├── contacto.html
+├── css/
+│ └── estilos.css
+├── js/
+│ └── scripts.js
+├── images/
+│ └── (imágenes de productos)
+├── php/
+│ └── conexion.php
+├── README.md
