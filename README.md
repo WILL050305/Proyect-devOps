@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 ## 📌 Características principales
 
-- Catálogo de productos de ropa hombres (camisas, pantalones, , etc.).
+- Catálogo de productos de ropa para hombres (camisas, pantalones, , etc.).
 - Carrito de compras dinámico.
 - Filtro por categoría, talla y precio.
 - Formulario de contacto.
@@ -27,6 +27,37 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 - **Yape, Paypal o tarjeto de debito** - Metodos de pago integrado a traves de API
 
 ---
+## 🛠️ Metologia usada 
+
+-**Scrum** - 
+
+✅ Ideal para proyectos iterativos y colaborativos
+
+✅ Gestión por sprints y entregas continuas
+
+✅ Muy usado en startups, agencias y empresas de software
+
+🔧 Requiere buena organización y roles definidos
+
+## 🛠️ Otras metodologias que se pudo usar 
+
+-** Design Thinking** - 
+
+✅ Centrado en el usuario
+
+✅ Fomenta la creatividad y soluciones innovadoras
+
+✅ Útil para definir el diseño UI/UX y entender las necesidades del usuario final
+
+-**Waterfall (Cascada)** - 
+
+✅ Adecuada solo si los requisitos están 100% definidos desde el inicio
+
+✅ Poca flexibilidad ante cambios
+
+⚠️ No recomendada para la mayoría de los sitios web modernos
+
+
 
 ## 📁 Estructura del proyecto
 tienda-ropa/
