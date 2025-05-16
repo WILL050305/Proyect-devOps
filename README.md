@@ -41,7 +41,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 ## 🛠️ Otras metodologias que se pudo usar 
 
-** Design Thinking** 
+**Design Thinking** 
 
 ✅ Centrado en el usuario
 
