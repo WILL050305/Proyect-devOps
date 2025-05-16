@@ -80,12 +80,12 @@ Publica automáticamente nuevas versiones funcionales del sitio con cada commit.
 
 ✅ Control de calidad del código
 
-ESLint / Prettier / SonarQube (opcional)
+ESLint / Prettier / SonarQube
 Estándares de código y análisis estático para mantener código limpio y confiable.
 
 🔄 Portabilidad y escalabilidad
 
-Docker (opcional)
+Docker 
 Permite contenerizar la aplicación para despliegue en diferentes entornos sin conflictos.
 
 📈 Monitoreo de disponibilidad
