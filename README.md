@@ -24,6 +24,7 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 - **PHP + MySQL** (versión con backend) – Para manejo de base de datos y pedidos.
 - **Git** – Control de versiones.
 - **GitHub Pages** (opcional) – Para desplegar versión estática.
+- **Yape, Paypal o tarjeto de debito** - Metodos de pago integrado a traves de API
 
 ---
 
