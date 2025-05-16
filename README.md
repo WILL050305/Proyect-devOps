@@ -59,18 +59,39 @@ Este proyecto consiste en el desarrollo de una página web para la venta de ropa
 
 
 
-## 📁 Estructura del proyecto
-tienda-ropa/
-├── index.html
-├── productos.html
-├── carrito.html
-├── contacto.html
-├── css/
-│ └── estilos.css
-├── js/
-│ └── scripts.js
-├── images/
-│ └── (imágenes de productos)
-├── php/
-│ └── conexion.php
-├── README.md
+✅ Beneficios y herramientas asociadas
+🚀 Automatización de despliegues
+
+GitHub Actions + Vercel / Netlify
+Automatiza el despliegue del sitio cada vez que se hace push en la rama principal (main).
+
+🔁 Integración Continua (CI)
+
+GitHub Actions
+Ejecuta pruebas y validaciones automáticamente con cada cambio en el repositorio.
+
+📦 Entrega Continua (CD)
+
+Vercel / Netlify
+Publica automáticamente nuevas versiones funcionales del sitio con cada commit.
+
+✅ Control de calidad del código
+
+ESLint / Prettier / SonarQube (opcional)
+Estándares de código y análisis estático para mantener código limpio y confiable.
+
+🔄 Portabilidad y escalabilidad
+
+Docker (opcional)
+Permite contenerizar la aplicación para despliegue en diferentes entornos sin conflictos.
+
+📈 Monitoreo de disponibilidad
+
+UptimeRobot
+Monitorea constantemente si el sitio está activo y alerta ante caídas.
+
+💥 Pruebas de estrés y rendimiento
+
+k6 (https://k6.io)
+Simula múltiples usuarios simultáneos para evaluar el rendimiento del sitio bajo carga.
+
